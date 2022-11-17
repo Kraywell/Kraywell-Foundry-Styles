@@ -1,0 +1,23 @@
+{
+  "id": "kraywell-styles",
+  "name": "kraywell-styles",
+  "title": "Kraywell Styles",
+  "description": "Стили уменьшающие размеры иконок сцен и т.д",
+  "authors": [
+    {
+      "name": "Kraywell"
+    }
+  ],
+  "version": "1.0.0",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "styles": [
+    "main.css"
+  ],
+  "system": [],
+  "relationships": []
+}

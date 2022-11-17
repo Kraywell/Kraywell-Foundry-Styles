@@ -1,0 +1,193 @@
+#actors .directory-item.actor {
+    position: relative;
+    line-height: 24px;
+}
+
+#actors .directory-item.actor .thumbnail {
+    clip: rect(12px, 48px, 36px, 0);
+    position: absolute;
+    margin-top: -11px;
+    margin-bottom: -14px;
+}
+
+#actors .directory-item.actor .document-name {
+    position: relative;
+    padding-top: 2px;
+    padding-left: 56px;
+}
+
+#actors li.folder > .folder-header {
+   padding: 4px 6px;
+}
+
+/* */
+
+#cards .directory-item.cards {
+    position: relative;
+    line-height: 24px;
+}
+
+#cards .directory-item.cards .thumbnail {
+    clip: rect(12px, 48px, 36px, 0);
+    position: absolute;
+    margin-top: -11px;
+    margin-bottom: -14px;
+}
+
+#cards .directory-item.cards .document-name {
+    position: relative;
+    padding-top: 2px;
+    padding-left: 56px;
+}
+
+#cards li.folder > .folder-header {
+    padding: 4px 6px;
+}
+
+/* */
+
+.chat-message {
+    font-size: 93%;
+    padding: 0 4px 3px;
+}
+
+#chat-log .message {
+    border-radius: 5px;
+}
+
+#chat-log .message.chatmsg__trim-top {
+    border-top: 0;
+    margin-top: 0;
+    padding-top: 3px;
+}
+#chat-log .message.chatmsg__trim-bottom {
+    border-bottom-width: 1px;
+    margin-bottom: 0;
+    border-bottom-style: dotted;
+}
+
+.chat-message.chatmsg__trim-top .message-sender,
+.chat-message.chatmsg__trim-top .message-metadata {
+    display: none;
+}
+.chat-message.chatmsg__trim-top--inspecting .message-sender,
+.chat-message.chatmsg__trim-top--inspecting .message-metadata {
+    display: block;
+}
+
+/* */
+
+.sidebar-tab .action-buttons button,
+.dir__btn-header {
+    height: 30px;
+    line-height: 18px;
+}
+
+.sidebar-tab .action-buttons .create-entity,
+.sidebar-tab .action-buttons .create-document {
+    margin-right: 0;
+}
+
+/* */
+
+#items .directory-item.item {
+    position: relative;
+    line-height: 24px;
+}
+
+#items .directory-item.item .thumbnail {
+    clip: rect(12px, 48px, 36px, 0);
+    position: absolute;
+    margin-top: -11px;
+    margin-bottom: -14px;
+}
+
+#items .directory-item.item .document-name {
+    position: relative;
+    padding-top: 4px;
+    padding-left: 56px;
+}
+
+#items li.folder > .folder-header {
+    padding: 4px 6px;
+}
+
+/* */
+
+#journal .directory-item.journalentry {
+    position: relative;
+    padding-top: 4px;
+    line-height: 24px;
+}
+
+#journal li.folder > .folder-header {
+    padding: 4px 6px;
+}
+
+/* */
+
+#macros .directory-item.macro {
+    position: relative;
+    line-height: 24px;
+}
+
+#macros .directory-item.macro .thumbnail {
+    clip: rect(12px, 48px, 36px, 0);
+    position: absolute;
+    margin-top: -11px;
+    margin-bottom: -14px;
+}
+
+#macros .directory-item.macro .document-name {
+    position: relative;
+    padding-top: 2px;
+    padding-left: 56px;
+}
+
+#macros li.folder > .folder-header {
+    padding: 4px 6px;
+}
+
+/* */
+
+#scenes .directory-item.scene {
+    line-height: 30px;
+    height: 30px;
+    background-position-y: 40px;
+    margin-bottom: 3px;
+}
+
+#scenes .directory-item.scene .document-name {
+    line-height: 24px;
+}
+
+#scenes li.folder > .folder-header {
+    padding: 4px 6px;
+}
+
+/* */
+
+#tables .directory-item.rolltable {
+    position: relative;
+    line-height: 24px;
+}
+
+#tables .directory-item.rolltable .thumbnail {
+    clip: rect(12px, 48px, 36px, 0);
+    position: absolute;
+    margin-top: -11px;
+    margin-bottom: -14px;
+}
+
+#tables .directory-item.rolltable .document-name {
+    position: relative;
+    padding-top: 2px;
+    padding-left: 56px;
+}
+
+#tables li.folder > .folder-header {
+    padding: 4px 6px;
+}
+
+/* */
+
