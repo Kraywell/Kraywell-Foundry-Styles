@@ -10,16 +10,18 @@
   ],
   "version": "1.0.3",
   "minimumCoreVersion": "10",
-  "compatibleCoreVersion": "11",
+  "compatibleCoreVersion": "10",
   "compatibility": {
     "minimum": "10",
     "verified": "10",
     "maximum": "11"
-
   },
   "styles": [
     "main.css"
   ],
   "system": [],
-  "relationships": []
+  "relationships": [],
+  "url": "https://github.com/Kraywell/Kraywell-Foundry-Styles",
+  "manifest": "https://github.com/Kraywell/Kraywell-Foundry-Styles/releases/download/latest/module.json",
+  "download": "https://github.com/Kraywell/Kraywell-Foundry-Styles/releases/download/latest/module.zip"
 }
