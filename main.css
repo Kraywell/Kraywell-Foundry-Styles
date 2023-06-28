@@ -23,25 +23,25 @@
 /* */
 
 #cards .directory-item.cards {
-    position: relative;
-    line-height: 24px;
+  position: relative;
+  line-height: 24px;
 }
 
 #cards .directory-item.cards .thumbnail {
-    clip: rect(12px, 48px, 36px, 0);
-    position: absolute;
-    margin-top: -11px;
-    margin-bottom: -14px;
+  clip: rect(12px, 48px, 36px, 0);
+  position: absolute;
+  margin-top: -11px;
+  margin-bottom: -14px;
 }
 
 #cards .directory-item.cards .document-name {
-    position: relative;
-    padding-top: 2px;
-    padding-left: 56px;
+  position: relative;
+  padding-top: 2px;
+  padding-left: 56px;
 }
 
 #cards li.folder > .folder-header {
-    padding: 4px 6px;
+  padding: 0 6px;
 }
 
 /* */
@@ -151,18 +151,17 @@
 /* */
 
 #scenes .directory-item.scene {
-    line-height: 30px;
-    height: 30px;
-    background-position-y: 40px;
-    margin-bottom: 3px;
+  line-height: 30px;
+  height: 30px;
+  margin-bottom: 3px;
 }
 
 #scenes .directory-item.scene .document-name {
-    line-height: 24px;
+  line-height: 24px;
 }
 
 #scenes li.folder > .folder-header {
-    padding: 4px 6px;
+  padding: 4px 6px;
 }
 
 /* */
